@@ -27,3 +27,4 @@ The objective of creating a **Student Grade Tracker** in Python is to develop a 
 -**Data Structures(Lists, Dictionaries)**: For storing student names, subjects, and grades.
 -**Functions**: To perform calculations like averages, letter grades, and GPA.
 -**Input/Output (input(), print())**: For collecting data and displaying results to the user.
+![task2](https://github.com/user-attachments/assets/4ec758d1-2676-43e2-b409-15aee126e312)
