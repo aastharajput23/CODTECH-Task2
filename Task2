@@ -5,13 +5,15 @@ print("~~ STUDENT GRADE TRACKER ~~")
 # Function to calculate GPA and letter grade
 def calculate_gpa(average_grade):
     if average_grade >= 90:
-        return 4.0, 'A'
+        return 5.0, 'A'
     elif average_grade >= 80:
-        return 3.0, 'B'
+        return 4.0, 'B'
     elif average_grade >= 70:
-        return 2.0, 'C'
+        return 3.0, 'C'
     elif average_grade >= 60:
-        return 1.0, 'D'
+        return 2.0, 'D'
+    elif average_grade >= 50:
+        return 1.0, 'E'
     else:
         return 0.0, 'F'
 
